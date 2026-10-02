@@ -6,7 +6,6 @@ I study AI and Data Engineering at the Technical University of Denmark and am cu
 
 - **[Text Quality Classification](https://github.com/Trexz14/ml-ops-assignment)** — DTU group project that fine-tunes a compact BERT model to classify text readability. The repository covers data preparation, training, evaluation, API serving, containers, and deployment.
 - **[Worth the Watch?](https://github.com/Trexz14/worth-the-watch)** — Chrome extension that summarizes a YouTube video's available captions before you open it.
-- **[Statistical Evaluation](https://github.com/Trexz14/Statistical-evaluation)** — Individual DTU assignment comparing regression models with subject-level cross-validation and statistical tests.
 - **[Bias Analysis of Attractiveness in AI-Generated Images](https://github.com/DonConarch/Statistisk-Evaluering-Projekt)** — DTU group project studying how image-generation prompts relate to visible traits. The public repository contains the analysis notebooks and processed data.
 
 ## Tools I use
