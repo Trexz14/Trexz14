@@ -4,6 +4,7 @@ I study AI and Data Engineering at the Technical University of Denmark and am cu
 
 ## Selected work
 
+- **[LexiPath](https://github.com/mithileshkowshik-wq/LexiHacks)** — Hackathon team project helping educators review AI-suggested literacy errors in handwritten work. I contributed handwriting review, page orientation, error-trend charts, and a resumable dataset downloader.
 - **[Text Quality Classification](https://github.com/Trexz14/ml-ops-assignment)** — DTU group project that fine-tunes a compact BERT model to classify text readability. The repository covers data preparation, training, evaluation, API serving, containers, and deployment.
 - **[Worth the Watch?](https://github.com/Trexz14/worth-the-watch)** — Chrome extension that summarizes a YouTube video's available captions before you open it.
 - **[Bias Analysis of Attractiveness in AI-Generated Images](https://github.com/DonConarch/Statistisk-Evaluering-Projekt)** — DTU group project studying how image-generation prompts relate to visible traits. The public repository contains the analysis notebooks and processed data.
