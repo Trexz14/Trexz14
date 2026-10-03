@@ -2,7 +2,7 @@
 
 I study AI and Data Engineering at the Technical University of Denmark and am currently on exchange at UC Santa Cruz. I am interested in machine learning systems, data pipelines, and careful evaluation of models.
 
-## Main showcases
+## Projects
 
 ### [Text Quality Classification — MLOps](https://github.com/Trexz14/ml-ops-assignment)
 
@@ -16,10 +16,13 @@ DTU group project exploring model training on an Arduino Nano 33 BLE Sense Rev2 
 
 Hackathon team project helping educators review AI-suggested literacy errors in handwritten work. I contributed handwriting review with reversible decisions, page orientation with aligned overlays, error-trend charts, and a resumable dataset downloader.
 
-## Supporting projects
+### [Pneumonia Detection](https://github.com/Trexz14/Pneumonia-CNN)
 
-- **[Pneumonia Detection](https://github.com/Trexz14/Pneumonia-CNN)** — DTU group project training a CNN to classify chest X-rays, with experiments in image preprocessing, model training, and evaluation.
-- **[Worth the Watch?](https://github.com/Trexz14/worth-the-watch)** — Independent Chrome extension that summarizes a YouTube video's available captions before you open it.
+DTU group project training a CNN to classify chest X-rays, with experiments in image preprocessing, model training, and evaluation.
+
+### [Worth the Watch?](https://github.com/Trexz14/worth-the-watch)
+
+Independent Chrome extension that summarizes a YouTube video's available captions before you open it.
 
 ## Tools I use
 
