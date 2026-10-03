@@ -18,7 +18,7 @@ Hackathon team project helping educators review AI-suggested literacy errors in 
 
 ## Supporting projects
 
-- **Pneumonia Detection** — DTU group project training a CNN to classify chest X-rays, with experiments in image preprocessing, model training, and evaluation.
+- **[Pneumonia Detection](https://github.com/HrStamm/Pneumonia-CNN)** — DTU group project training a CNN to classify chest X-rays, with experiments in image preprocessing, model training, and evaluation.
 - **[Worth the Watch?](https://github.com/Trexz14/worth-the-watch)** — Independent Chrome extension that summarizes a YouTube video's available captions before you open it.
 
 ## Tools I use
